@@ -68,3 +68,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+##Components
+1.Footer
+2.Header
+3.Home
+4.Login
+5.Navbar
+6.Product
+7.Profile
+8.Registration
+9.ForgotPassword
+
+This are the components that have been identified.
+
+We have 3 main services.
+So we have added Context for the 3 services
+
+1.Auth
+2.User
+3.Product
+
+The files to create context and file containing different API calls is present inside the respective folders.
+
+
+
+
